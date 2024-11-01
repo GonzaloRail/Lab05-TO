@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2ddd2b53b92525205b21.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "E-Propuesto05",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "E-Propuesto05::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E-Propuesto05-Debug-08b18e3764a39c1cecfa.json",
+					"name" : "E-Propuesto05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E-Propuesto05_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E-Propuesto05_autogen-Debug-8dbf90554969eb88ca70.json",
+					"name" : "E-Propuesto05_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E-Propuesto05_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E-Propuesto05_autogen_timestamp_deps-Debug-e3191752e055a15253da.json",
+					"name" : "E-Propuesto05_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt/E-Propuesto05/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "D:/Qt/E-Propuesto05"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
